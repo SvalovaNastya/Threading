@@ -1,0 +1,29 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\Threading.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\test1.txt
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\Threading.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\Threading.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\obj\Debug\Threading.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\obj\Debug\Threading.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\nunit.framework.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Threading\Threading\bin\Debug\test2.txt
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\obj\Debug\Threading.pdb
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\test1.txt
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\nunit.framework.dll
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\nunit.framework.xml
+C:\Users\Администратор\Desktop\Nastya\Threading\Threading\Threading\bin\Debug\test2.txt
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\Threading.exe.config
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\obj\Debug\Threading.exe
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\obj\Debug\Threading.pdb
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\test1.txt
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\test2.txt
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\Threading.exe
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\Threading.pdb
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\nunit.framework.dll
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\bin\Debug\nunit.framework.xml
+E:\thththreading NEW HOT\Nastya\Threading\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
